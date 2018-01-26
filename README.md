@@ -8,7 +8,7 @@ The main purpose of this program is to remove the arm region as much as possible
 ## Usage
 1. Put image path in the variable IMAGE\_FILE in __get\_my\_hand.py__. Or you can also provide image using -i or --image
 
-   > `python get\_my\_hand.py -i path\to\img.jpg`
+   > `python get_my_hand.py -i path\to\img.jpg`
 
 2. Run the file
 3. If the hand appears to be upside down, make the 'CORRECTION_NEEDED' variable True.
