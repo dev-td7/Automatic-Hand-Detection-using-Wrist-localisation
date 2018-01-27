@@ -17,11 +17,11 @@ The main purpose of this program is to remove the arm region as much as possible
 
 Original image:
 
-![This was supposed to be the original image](sample-results/original.png)
+![This was supposed to be the original image](https://github.com/dev-td7/Automatic-Hand-Detection-using-Wrist-localisation/blob/master/sample-results/original.PNG?raw=true)
 
 Result:
 
-![This was supposed to be the result image](sample-results/result.png)
+![This was supposed to be the result image](https://github.com/dev-td7/Automatic-Hand-Detection-using-Wrist-localisation/blob/master/sample-results/result.PNG?raw=true)
 
 ## Constraints
 1. There should be good lighting conditions. The wrist detection is heavily dependent on lighting conditions and poor light may lead to poor results.
